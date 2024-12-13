@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PDS IT Solutions",
+    "description": "",
+    "home_page_url": "https://paulbryson.github.io/pds-it-solutions",
+    "feed_url": "https://paulbryson.github.io/pds-it-solutions/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "p Bryson"
+    },
+    "items": [
+    ]
+}

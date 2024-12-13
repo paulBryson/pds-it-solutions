@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://paulbryson.github.io/pds-it-solutions/sitemap.xml
