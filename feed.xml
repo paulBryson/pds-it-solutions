@@ -3,10 +3,30 @@
     <title>PDS IT Solutions</title>
     <link href="https://www.pds-it-solutions.com/feed.xml" rel="self" />
     <link href="https://www.pds-it-solutions.com" />
-    <updated>1969-12-31T17:00:00-07:00</updated>
+    <updated>2024-12-14T11:22:35-07:00</updated>
     <author>
         <name>p Bryson</name>
     </author>
     <id>https://www.pds-it-solutions.com</id>
 
+    <entry>
+        <title>First Post!</title>
+        <author>
+            <name>p Bryson</name>
+        </author>
+        <link href="https://www.pds-it-solutions.com/first-post/"/>
+        <id>https://www.pds-it-solutions.com/first-post/</id>
+
+        <updated>2024-12-14T11:22:35-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Do you remember when idiots would race for "first post" on slashdot?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Do you remember when idiots would race for "first post" on slashdot?</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
